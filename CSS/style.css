@@ -1,0 +1,110 @@
+.div1{
+    background-color: red;
+    width: 500px;
+    height: 100px;
+    color: red;
+    margin-left: 700px;
+}
+.div2{
+    background-color: seagreen;
+    width: 500px;
+    height: 100px;
+    color: seagreen;
+    margin-left: 700px;
+}
+.div3{
+    background-color: blue;
+    width: 500px;
+    height: 100px;
+    color: blue;
+    margin-left: 700px;
+}
+.conteiner{
+    padding-left: 700px;
+}
+.div4{
+    width: 500px;
+    height: 50px;
+    color: white;
+    margin-left: 700px;
+}
+.line{
+     width: 1000px;
+     padding-right: 220px;
+}
+.div5{
+    display: inline-block;
+    background-color: red;
+    width: 164px;
+    height: 100px;
+    color: red;
+}
+.div6{
+    display: inline-block;
+    background-color: seagreen;
+    width: 164px;
+    height: 100px;
+    color: seagreen;
+}
+.div7{
+    display: inline-block;
+    background-color: blue;
+    width: 164px;
+    height: 100px;
+    color: blue;
+}
+.div8{
+    background-color: yellow;
+    width: 500px;
+    height: 100px;
+    color: yellow;
+}
+.line2{
+    width: 1000px;
+}
+.div9{
+    display: inline-block;
+    background-color: teal;
+    width: 242px;
+    height: 100px;
+    color: teal;
+    border: 3px inset black;
+}
+.div10{
+    display: inline-block;
+    background-color: chartreuse;
+    width: 242px;
+    height: 100px;
+    color: chartreuse;
+    border: 3px inset black;
+}
+.conteiner2{
+    width: 1000px;
+}
+.div11{
+    width: 500px;
+    height: 50px;
+    color: white;
+    margin-left: 700px;
+}
+.div12{
+    display: inline-block;
+    background-color: gold;
+    width: 152px;
+    height: 100px;
+    border: 7px inset black;
+}
+.div13{
+    display: inline-block;
+    background-color: gold;
+    width: 152px;
+    height: 100px;
+    border: 7px inset black;
+}
+.div14{
+    display: inline-block;
+    background-color: gold;
+    width: 152px;
+    height: 100px;
+    border: 7px inset black;
+}
